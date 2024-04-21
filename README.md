@@ -45,8 +45,6 @@ Findings include:
 The study underscores the importance of cabs in NYC's transportation landscape, particularly during adverse weather or subway disruptions.
 
 ## Team
-- **Project Lead**: Sai Chakkera
-- **Data Analysts**: Peter Geiss, [Your Name]
 - **Advisor**: Prof. Steven Skiena
 
 ## References
